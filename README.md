@@ -1,3 +1,7 @@
-# Chatting-Application
+# Real-Time-Chatting-Application
 
 THIS IS A SIMPLE CHATTING APPLICATION DEVELOPED USING THE JAVA SWING AND JAVA SOCKET API
+
+Developed by-
+Vedant Chimote
+CS19B44
